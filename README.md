@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-BSc (Hons) IT undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
+BSc (Hons) IT specialising in Data Science undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
 I enjoy building intelligent systems, data-driven solutions, and scalable web applications with clean UI and production-grade architecture.
 
 ---
@@ -71,10 +71,6 @@ I enjoy building intelligent systems, data-driven solutions, and scalable web ap
 
 <a href="https://www.linkedin.com/in/thushanya-jeyathasan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/thushanya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://thushanya-portfolio-oyp2.vercel.app/">
