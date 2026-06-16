@@ -1,15 +1,25 @@
 # Hi, I'm Thushanya Jeyathasan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=BSc+IT+Undergraduate+@+SLIIT;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=BSc+IT+Undergraduate+@+SLIIT;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-powered+web+systems" />
+</p>
+
+---
+
+## 🚀 Live Portfolio
+
+<p align="center">
+  <a href="https://thushanya-portfolio-oyp2.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit-8A2BE2?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-BSc (Hons) IT undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.
-I enjoy building intelligent systems, data-driven solutions, and scalable web applications.
+BSc (Hons) IT undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
+I enjoy building intelligent systems, data-driven solutions, and scalable web applications with clean UI and production-grade architecture.
 
 ---
 
@@ -57,29 +67,42 @@ I enjoy building intelligent systems, data-driven solutions, and scalable web ap
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://thushanya-portfolio-oyp2.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel" />
+</a>
+
 </p>
 
 ---
 
 ## ⚡ Focus Areas
 
-* Data Science & Machine Learning
-* Full Stack Development (MERN)
-* Data Analytics & Visualization
-* Real-world problem solving systems
+- Data Science & Machine Learning  
+- Full Stack Development (MERN)  
+- Data Analytics & Visualization  
+- Real-world production systems  
+- AI-powered applications  
+
+---
+
+## 📌 Highlights
+
+- 6+ personal projects built and deployed  
+- Experience in ML, data analysis, and web systems  
+- Strong focus on scalable and clean architecture  
+- Passion for building real-world impactful solutions  
 
 ---
 
 ## 🚀 Portfolio Website
 
-A modern **GitHub Pages portfolio** is in development featuring:
-
-* Smooth scroll animations
-* Interactive project cards
-* Dark modern UI
-* Responsive design
-* Typing effects & hover animations
-
-🔗 Live: Coming Soon
+Modern interactive portfolio built with:
+- React + Tailwind CSS  
+- Framer Motion animations  
+- Apple-style UI/UX design  
+- Fully responsive layout  
+- Project showcase system  
 
 ---
+
+⭐ *Always learning, always building.*
