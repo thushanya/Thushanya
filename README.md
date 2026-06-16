@@ -6,16 +6,6 @@
 
 ---
 
-## 🚀 Live Portfolio
-
-<p align="center">
-  <a href="https://thushanya-portfolio-oyp2.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit-8A2BE2?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 
 BSc (Hons) IT undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
@@ -55,26 +45,6 @@ I enjoy building intelligent systems, data-driven solutions, and scalable web ap
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/thushanya-jeyathasan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/thushanya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://thushanya-portfolio-oyp2.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel" />
-</a>
-
-</p>
-
----
-
 ## ⚡ Focus Areas
 
 - Data Science & Machine Learning  
@@ -94,14 +64,24 @@ I enjoy building intelligent systems, data-driven solutions, and scalable web ap
 
 ---
 
-## 🚀 Portfolio Website
 
-Modern interactive portfolio built with:
-- React + Tailwind CSS  
-- Framer Motion animations  
-- Apple-style UI/UX design  
-- Fully responsive layout  
-- Project showcase system  
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/thushanya-jeyathasan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/thushanya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://thushanya-portfolio-oyp2.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel" />
+</a>
+
+</p>
 
 ---
 
