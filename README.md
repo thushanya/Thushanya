@@ -1,15 +1,15 @@
 # Hi, I'm Thushanya Jeyathasan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=BSc+IT+Undergraduate+@+SLIIT;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=BSc+IT+Undergraduate+@+SLIIT;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-BSc (Hons) IT undergraduate at SLIIT passionate about **Data Science, Machine Learning, and Full Stack Development**.
-I enjoy building intelligent systems and data-driven applications that solve real-world problems.
+BSc (Hons) IT undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.
+I enjoy building intelligent, data-driven systems and scalable web applications that solve real-world problems.
 
 ---
 
@@ -25,6 +25,7 @@ I enjoy building intelligent systems and data-driven applications that solve rea
 <img src="https://img.shields.io/badge/MERN-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge" />
 
 </p>
 
@@ -42,19 +43,27 @@ I enjoy building intelligent systems and data-driven applications that solve rea
 
 ---
 
-## 📂 Projects
-
-* 🛰 WildfireDB Analysis
-* 📉 Customer Churn Prediction
-* 🎬 Movie Recommender System
-* 🛒 E-commerce Sales Dashboard (Power BI)
-* 🏫 Smart Campus System (PAF 2026)
-* 📱 TrackU Android App
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/thushanya-jeyathasan](http://www.linkedin.com/in/thushanya-jeyathasan)
+* GitHub: https://github.com/thushanya
+
+---
+
+## 🚀 Portfolio Website
+
+I am currently building a **modern, animated, and responsive portfolio website** to showcase my skills, projects, and experience in a more interactive way.
+
+🔗 Live Portfolio: *Coming Soon*
+(Hosted via GitHub Pages)
+
+---
+
+## ⚡ Focus Areas
+
+* Data Science & Machine Learning
+* Full Stack Web Development (MERN)
+* Data Analytics & Visualization (Power BI, SQL)
+* Building real-world problem-solving systems
 
 ---
