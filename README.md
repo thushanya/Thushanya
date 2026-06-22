@@ -73,7 +73,7 @@ I enjoy building intelligent systems, data-driven solutions, and scalable web ap
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://thushanya-portfolio-oyp2.vercel.app/">
+<a href="https://thushanya-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel" />
 </a>
 
