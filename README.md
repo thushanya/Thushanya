@@ -1,4 +1,4 @@
-# Hi, I'm Thushanya 👋
+# Hi, I'm Thushanya Jeyathasan👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=BSc+IT+Undergraduate+@+SLIIT;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-powered+web+systems" />
