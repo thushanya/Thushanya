@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-BSc (Hons) IT specialising in Data undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
+BSc (Hons) IT specialising in Data Science undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
 I enjoy building intelligent systems, data-driven solutions, and scalable web applications with clean UI and production-grade architecture.
 
 ---
