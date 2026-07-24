@@ -1,4 +1,4 @@
-# Hi, I'm Thushanya Jeyathasan 👋
+<img width="1606" height="636" alt="image" src="https://github.com/user-attachments/assets/100557de-cb4d-4b5d-982b-c2b19f4a511a" /># Hi, I'm Thushanya Jeyathasan 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=BSc+IT+Undergraduate+@+SLIIT;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-powered+web+systems" />
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-BSc (Hons) IT specialising in undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
+BSc (Hons) IT specialising in Data undergraduate at SLIIT focused on **Data Science, Machine Learning, and Full Stack Development**.  
 I enjoy building intelligent systems, data-driven solutions, and scalable web applications with clean UI and production-grade architecture.
 
 ---
