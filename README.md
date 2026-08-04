@@ -13,7 +13,7 @@ I enjoy building intelligent systems, data-driven solutions, and scalable web ap
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech 
 
 <p align="center">
 
